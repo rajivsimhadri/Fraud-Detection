@@ -1,0 +1,1 @@
+print("new line of life is not a wife")
